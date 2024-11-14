@@ -94,5 +94,4 @@ Deskripsi Scene: Setelah mengakses repositori dokumen, pengguna kembali ke halam
 Deskripsi Scene: Pengguna kembali ke halaman "Materi dan Sumber Belajar Terpadu" dan memilih fitur "Pengaturan Hak Akses." Layar berpindah ke halaman pengaturan hak akses, di mana pengguna dapat mengatur siapa saja yang dapat mengakses konten tertentu.
 
 5. Akhir Penggunaan Halaman
-6. 
-Deskripsi Scene: Setelah selesai menggunakan fitur, pengguna dapat kembali ke halaman utama atau keluar dari aplikasi. Semua pilihan fitur tetap ditampilkan dengan jelas untuk akses berikutnya.
+6. Setelah selesai menggunakan fitur, pengguna dapat kembali ke halaman utama atau keluar dari aplikasi. Semua pilihan fitur tetap ditampilkan dengan jelas untuk akses berikutnya.
